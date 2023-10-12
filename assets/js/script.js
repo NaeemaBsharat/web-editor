@@ -12,7 +12,7 @@ function editor(){
 
             "<style>"+csscode.value+"<style>" +
 
-            "<script>"+jscode.value +"</script>"
+            "<script>"+jscode.value +"<script>"
         );
 
 
